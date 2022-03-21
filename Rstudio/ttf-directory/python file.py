@@ -1,2 +1,4 @@
 print("Hello World")
-a = "apple"
+a = "Alex"
+b = "Brad"
+c = "Carl"
